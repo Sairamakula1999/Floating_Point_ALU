@@ -47,7 +47,7 @@ Fig 4. Schematic
 
 ## Simulations
 <p align="center">
-<img src="imag/floating_alu.png" width =1000 height= 400>
+<img src="imag/floating_alu.png" width =1000 height= 300>
 </p>
 <p align="center">
 Fig 5. Simulation
