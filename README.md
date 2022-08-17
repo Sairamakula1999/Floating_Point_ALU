@@ -18,3 +18,5 @@ Here there is no need of exponent matching unlike in addition/subtaction. booth 
 
 ## Division
 Similar to multiplication, there is no need of exponent matching. Here division is done similar to unsigned restoring method with few modifications. So, that instead of remainder decimal is calculated in quotient. After division sign of result is calculated based on signs of inputs A & B. Exponents are subtracted and bias(127),shift caused by result to get normalized is added. Based on shift matissa is selected. Depending on exponent and its carryout underflow and ovweflow is detected. if divided by zero than a exception will be generated.   
+
+## Simulations
